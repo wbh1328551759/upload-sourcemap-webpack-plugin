@@ -8,7 +8,7 @@ yarn add --dev upload-my-sourcemap-plugin
 ## Basic Usage
 ```javascript
 // webpack.prod.config.js
-const UploadSourceMapPlugin = require('upload-source-map-plugin')
+const UploadSourceMapPlugin = require('upload-my-sourcemap-plugin')
 
 module.exports = merge(baseConfig, {
   //..
