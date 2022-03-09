@@ -1,0 +1,11 @@
+{
+  "name": "upload-source-map-plugin",
+  "version": "0.0.1",
+  "main": "index.js",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^0.26.0",
+    "form-data": "^4.0.0",
+    "request": "^2.88.2"
+  }
+}
