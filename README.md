@@ -3,7 +3,7 @@ Upload the sourcemap files after your project is packaged
 
 ## Installation
 ```
-yarn add --dev upload-sourcemap-plugin
+yarn add --dev upload-my-sourcemap-plugin
 ```
 ## Basic Usage
 ```javascript
